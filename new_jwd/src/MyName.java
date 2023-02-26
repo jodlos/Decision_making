@@ -1,5 +1,6 @@
 public class MyName {
     public static void main(String[] args) {
-        System.out.println("Moje imię to Barbara");
+        String name = "Barbara";
+        System.out.println("Moje imię to " + name + ".");
     }
 }
