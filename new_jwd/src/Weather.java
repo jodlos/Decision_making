@@ -8,5 +8,11 @@ public class Weather {
         fah = fah * 5;
 
         System.out.println(fah + " stopni Celsjusza\n");
+
+        int z = 1;
+        z = z++;
+        System.out.println(z);
+        System.out.println(z);
+
     }
 }
