@@ -1,4 +1,4 @@
-package enums.labo16;
+package enums;
 
 public enum CardinalPoint {
     N("północ", "North", 0),

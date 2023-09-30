@@ -1,6 +1,6 @@
-package enums.labo17;
+package enums;
 
-import enums.labo17.Computation;
+import enums.Computation;
 
 public class ComputationTester {
     public static void main(String[] args) {

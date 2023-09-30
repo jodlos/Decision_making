@@ -1,4 +1,4 @@
-package enums.labo17;
+package enums;
 
 public enum Computation {
     MULTIPLY {
